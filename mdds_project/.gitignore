@@ -1,0 +1,9 @@
+*.pyc
+*.txt
+*.spec
+build/
+dist/
+.idea/
+log/
+database/
+_.readme
